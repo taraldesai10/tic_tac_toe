@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 import 'package:lottie/lottie.dart';
-import 'package:tic_tac_toe/play_with_bot.dart';
+import 'package:tic_tac_toe/play_screen.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

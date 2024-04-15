@@ -6,7 +6,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:lottie/lottie.dart';
 
-import 'package:tic_tac_toe/controller.dart';
+import 'package:tic_tac_toe/manual.dart';
 import 'package:tic_tac_toe/bot.dart';
 
 class PlayWithBot extends StatefulWidget {

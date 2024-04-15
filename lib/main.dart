@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tic_tac_toe/home_page.dart';
-import 'package:tic_tac_toe/play_with_bot.dart';
+import 'package:tic_tac_toe/selection_screen.dart';
+import 'package:tic_tac_toe/play_screen.dart';
 
 void main() {
   runApp(const MyApp());
